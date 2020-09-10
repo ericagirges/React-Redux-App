@@ -38,8 +38,7 @@ const ColorContainer = styled.div`
   border-top: 1px solid #c8c5c5;
 
   :hover {
-    background-color: #ffffff;
-    background-image: linear-gradient(315deg, #ffffff 0%, #1b2845 74%);
+    background: #303A54;
   }
 `;
 
